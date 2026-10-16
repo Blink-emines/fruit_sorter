@@ -1,0 +1,32 @@
+0	banana_001.jpg	Training/Banana/r_109_100.jpg
+1	orange_001.jpg	Training/Orange/287_100.jpg
+2	orange_002.jpg	Training/Orange/r_143_100.jpg
+3	orange_003.jpg	Training/Orange/r_249_100.jpg
+4	orange_004.jpg	Training/Orange/r_136_100.jpg
+5	banana_002.jpg	Training/Banana/260_100.jpg
+6	other-pear_001.jpg	Training/Pear/r_206_100.jpg
+7	banana_003.jpg	Training/Banana/141_100.jpg
+8	apple_001.jpg	Training/Apple Red 1/224_100.jpg
+9	other-strawberry_001.jpg	Training/Strawberry/r_155_100.jpg
+10	orange_005.jpg	Training/Orange/112_100.jpg
+11	banana_004.jpg	Training/Banana/177_100.jpg
+12	orange_006.jpg	Training/Orange/r_28_100.jpg
+13	other-kiwi_001.jpg	Training/Kiwi/r_280_100.jpg
+14	apple_002.jpg	Training/Apple Red 1/2_100.jpg
+15	banana_005.jpg	Training/Banana/r_138_100.jpg
+16	apple_003.jpg	Training/Apple Red 1/309_100.jpg
+17	apple_004.jpg	Training/Apple Golden 1/r_176_100.jpg
+18	other-strawberry_002.jpg	Training/Strawberry/184_100.jpg
+19	apple_005.jpg	Training/Apple Red 1/298_100.jpg
+20	apple_006.jpg	Training/Apple Golden 1/300_100.jpg
+21	banana_006.jpg	Training/Banana/283_100.jpg
+22	banana_007.jpg	Training/Banana/r_86_100.jpg
+23	banana_008.jpg	Training/Banana/r_177_100.jpg
+24	orange_007.jpg	Training/Orange/267_100.jpg
+25	apple_007.jpg	Training/Apple Red 1/r_245_100.jpg
+26	other-pear_002.jpg	Training/Pear/r_196_100.jpg
+27	other-lemon_001.jpg	Training/Lemon/188_100.jpg
+28	apple_008.jpg	Training/Apple Granny Smith/r_115_100.jpg
+29	other-kiwi_002.jpg	Training/Kiwi/r_24_100.jpg
+30	other-lemon_002.jpg	Training/Lemon/r_88_100.jpg
+31	orange_008.jpg	Training/Orange/221_100.jpg

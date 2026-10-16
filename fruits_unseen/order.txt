@@ -1,0 +1,32 @@
+0	banana_001.jpg	Test/Banana/301_100.jpg
+1	apple_001.jpg	Test/Apple Red 1/37_100.jpg
+2	banana_002.jpg	Test/Banana/r_33_100.jpg
+3	banana_003.jpg	Test/Banana/162_100.jpg
+4	orange_001.jpg	Test/Orange/r_92_100.jpg
+5	banana_004.jpg	Test/Banana/13_100.jpg
+6	other-strawberry_001.jpg	Test/Strawberry/r_60_100.jpg
+7	orange_002.jpg	Test/Orange/33_100.jpg
+8	apple_002.jpg	Test/Apple Golden 1/113_100.jpg
+9	orange_003.jpg	Test/Orange/76_100.jpg
+10	other-lemon_001.jpg	Test/Lemon/72_100.jpg
+11	banana_005.jpg	Test/Banana/r_229_100.jpg
+12	banana_006.jpg	Test/Banana/r_241_100.jpg
+13	other-strawberry_002.jpg	Test/Strawberry/r_83_100.jpg
+14	orange_004.jpg	Test/Orange/r_39_100.jpg
+15	apple_003.jpg	Test/Apple Granny Smith/r_324_100.jpg
+16	orange_005.jpg	Test/Orange/60_100.jpg
+17	apple_004.jpg	Test/Apple Golden 1/138_100.jpg
+18	orange_006.jpg	Test/Orange/78_100.jpg
+19	other-pear_001.jpg	Test/Pear/r_3_100.jpg
+20	orange_007.jpg	Test/Orange/7_100.jpg
+21	apple_005.jpg	Test/Apple Red 1/323_100.jpg
+22	other-kiwi_001.jpg	Test/Kiwi/44_100.jpg
+23	other-kiwi_002.jpg	Test/Kiwi/r_36_100.jpg
+24	banana_007.jpg	Test/Banana/308_100.jpg
+25	banana_008.jpg	Test/Banana/300_100.jpg
+26	apple_006.jpg	Test/Apple Granny Smith/r_59_100.jpg
+27	orange_008.jpg	Test/Orange/31_100.jpg
+28	other-pear_002.jpg	Test/Pear/72_100.jpg
+29	apple_007.jpg	Test/Apple Golden 1/r_80_100.jpg
+30	apple_008.jpg	Test/Apple Golden 1/r_70_100.jpg
+31	other-lemon_002.jpg	Test/Lemon/74_100.jpg
